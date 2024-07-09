@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Problem Statement** : Create a like functionality using react, where the some data will be fetched from an API. When the data is being fetched, the like button is in loading state. If fetched, change the color. If not, show the error.
 
 Currently, two official plugins are available:
 
